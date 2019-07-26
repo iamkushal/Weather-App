@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Current-Weather</string>
+    <string name="city_country">Kathmandu, Nepal</string>
+    <string name="date_today">Sunday, 21 July</string>
+    <string name="day_of_week">Mon</string>
+    <string name="current_temperature">24</string>
+
+</resources>
